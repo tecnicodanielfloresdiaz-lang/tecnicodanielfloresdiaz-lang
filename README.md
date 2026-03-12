@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Daniel Flores 👋
 
 ### 🚀 Sobre mí
 - 🔭 Actualmente trabajo en Proyectos Idependientes
