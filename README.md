@@ -1,4 +1,7 @@
 # ¡Hola! Soy Daniel Flores 👋
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Front-End+autodidacta,;me+encanta+aprender+cosas+nuevas..<3"></a>
+</p>
 
 ### 🚀 Sobre mí
 - 🔭 Actualmente trabajo en Proyectos Idependientes
