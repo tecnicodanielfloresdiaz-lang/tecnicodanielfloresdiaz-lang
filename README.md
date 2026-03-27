@@ -22,7 +22,7 @@
 
 ### 🚀 Sobre mí
 - 🔭 Actualmente trabajo en Proyectos Idependientes
-- 🌱 Estoy aprendiendo Html, Css, JavaScript Php
+- 🌱 Estoy aprendiendo Html, Css, JavaScript, Php
 - 📫 Cómo contactarme: tecnico.daniel.flores.diaz@gmail.com
 
 ---
